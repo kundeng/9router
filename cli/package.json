@@ -1,7 +1,7 @@
 {
-  "name": "9router",
-  "version": "0.5.50",
-  "description": "9Router CLI - Start and manage 9Router server",
+  "name": "@kundeng/9router",
+  "version": "0.5.51",
+  "description": "9Router CLI - Start and manage 9Router server (kundeng fork with built-in watchdog)",
   "bin": {
     "9router": "./cli.js"
   },
